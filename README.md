@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="178" src="https://i.gifer.com/2swA.gif"  />
+<img align="right" height="250" src="https://i.gifer.com/2swA.gif"  />
 
 ###
 
