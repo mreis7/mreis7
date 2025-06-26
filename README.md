@@ -17,7 +17,6 @@
  <img width="6" />
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="30" alt="java logo"  />
  <img width="6" /> 
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" alt="python logo"  />
 </div>
 
 ###
