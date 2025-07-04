@@ -13,9 +13,9 @@
 ###
 
 <div align="left">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="30" alt="cpp logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="10" alt="cpp logo"  />
  <img width="6" />
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="30" alt="java logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="10" alt="java logo"  />
  <img width="6" /> 
 </div>
 
