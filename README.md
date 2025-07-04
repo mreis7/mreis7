@@ -8,10 +8,10 @@
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/2swA.gif"  />
+<img align="right" height="100" src="https://i.gifer.com/2swA.gif"  />
 
 ###
-
+<!--
 <div align="left">
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="10" alt="cpp logo"  />
  <img width="6" />
@@ -22,10 +22,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   
 </div>
-
+-->
 ###
 
 <br clear="both">
