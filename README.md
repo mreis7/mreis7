@@ -32,7 +32,3 @@
 
 ###
 
-![snake gif](https://github.com/mreis7/mreis7/blob/output/github-contribution-grid-snake.svg)
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mreis7&repo=mreis7&theme=react)](https://github.com/mreis7/mreis7)
