@@ -26,9 +26,16 @@
   
 </div>
 -->
+
 ###
 
 <br clear="both">
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/mreis7/mreis7/output/github-contribution-grid-snake-dark-svg">
+  <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/mreis7/mreis7/output/github-contribution-grid-snake.svg">
+  <img atl="github contribution grid snake animation" src="https://raw.githubusercontent.com/mreis7/mreis7/output/github-contribution-grid-sanke.svg">
+</picture>
 
