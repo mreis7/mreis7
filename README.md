@@ -10,7 +10,7 @@
 
 -  Foco principal: Java e Spring Boot
 -  Estudando Arquitetura de Sistemas e System Design
--  Buscando domínio completo de Estruturas de Dados e Algoritmos
+-  Estudando Estruturas de Dados e Algoritmos
 -  Estudando inglês para atuação global
 </p>
 <p>
