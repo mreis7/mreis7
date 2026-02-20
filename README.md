@@ -4,26 +4,50 @@
 </div>
 
 ###
+<p align="center"> <strong>Desenvolvedor focado em Engenharia de Software, Arquitetura de Sistemas e Backend.</strong></p>
+<p align="left">
+  <strong>Sobre mim</strong>
 
+-  Foco principal: Java e Spring Boot
+-  Estudando Arquitetura de Sistemas e System Design
+-  Buscando domínio completo de Estruturas de Dados e Algoritmos
+-  Estudando inglês para atuação global
+</p>
+<p>
+ <strong>Tecnologias & Ferramentas</strong>
+
+- Java
+- Spring Boot
+- JPA / Hibernate
+- MySQL
+</p>
+
+<p>
+ <strong>Atualmente estudando</strong>
+
+- Arquitetura de Microsserviços
+- Clean Architecture
+- Design Patterns
+- System Design avançado
+</p>
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/2swA.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/2swA.gif"  />
 
 ###
 
-<div align="left">
+<!--<div align="left">
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" alt="cpp logo"  />
  <img width="6" />
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" alt="java logo"  />
  <img width="6" /> 
-</div>
+</div>-->
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  
 </div>
 
 
