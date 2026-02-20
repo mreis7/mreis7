@@ -17,7 +17,7 @@
  <strong>Tecnologias & Ferramentas</strong>
 
 - Java
-- Spring Boot
+- SpringBoot
 - JPA / Hibernate
 - MySQL
 </p>
