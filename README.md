@@ -4,32 +4,7 @@
 </div>
 
 ###
-<p align="center"> <strong>Desenvolvedor focado em Engenharia de Software, Arquitetura de Sistemas e Backend.</strong></p>
-<p align="left">
-  <strong>Sobre mim</strong>
-
--  Foco principal: Java e Spring Boot
--  Estudando Arquitetura de Sistemas e System Design
--  Estudando Estruturas de Dados e Algoritmos
--  Estudando inglês para atuação global
-</p>
-<p>
- <strong>Tecnologias & Ferramentas</strong>
-
-- Java
-- SpringBoot
-- JPA / Hibernate
-- MySQL
-</p>
-
-<p>
- <strong>Atualmente estudando</strong>
-
-- Arquitetura de Microsserviços
-- Clean Architecture
-- Design Patterns
-- System Design avançado
-</p>
+<p align="center"> <strong>Software Engeneer, Arquiteture System and Backend.</strong></p>
 
 ###
 
