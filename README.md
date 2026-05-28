@@ -12,22 +12,6 @@
 
 ###
 
-<!--<div align="left">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" alt="cpp logo"  />
- <img width="6" />
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" alt="java logo"  />
- <img width="6" /> 
-</div>-->
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-</div>
-
-
-###
-
 <br clear="both">
 
 ###
