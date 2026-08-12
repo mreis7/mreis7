@@ -1,10 +1,5 @@
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70933&center=true&width=435&lines=%F0%9F%91%8B+Matheus+Reis;Software+Engineer" alt="Typing SVG" /></a>
-</div>
 
-###
-<p align="center"> <strong>Software Engeneer, Arquiteture System and Backend.</strong></p>
 
 ###
 
