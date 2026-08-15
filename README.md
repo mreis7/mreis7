@@ -49,6 +49,12 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<br clear="both">
+<br clear="both">
+<a href="https://www.linkedin.com/in/mreis9/">
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/linkedin.svg" alt="logo do linkedin" height="30">
+</a>
 <img align="right" height="150" src="https://i.gifer.com/2swA.gif"  />
 
 
